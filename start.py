@@ -18,3 +18,4 @@ elif input == "2":
     print("You say, 'Hi, I'm Widget!'")
     print("What do you want to do next?")
     print("1. Look at the people in your class")
+    
